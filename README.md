@@ -1,3 +1,13 @@
+<h1 align="center">Hey 👋 I'm Riddhi Gupta</h1>
+
+###
+
+<br clear="both">
+
+<p align="center">I'm a 🎓 Computer Science Student | 💻 Aspiring Software Developer | 🌐 Web Development.</p>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning React & Full-Stack Development<br>👯 I’m looking to collaborate on Open Source & Web Apps<br>💬 Ask me about Java, Python, HTML, CSS, JavaScript<br>🎯 Actively looking for Web & Software Development Internships<br>📫 How to reach me: riddhisiddhitwinsis@gmail.com<br>⚡ Fun fact: I love building projects and organizing tech events<br>
 
